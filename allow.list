@@ -710,9 +710,6 @@ open.oneplus.net
 # WhatsApp push
 dit.whatsapp.net
 
-# SiteScout
-sitescout.com
-
 # Apple Push
 init.push.apple.com
 init.push-apple.com.akadns.net
@@ -728,10 +725,6 @@ mtalk.google.com
 
 # Google Ads
 www.googleadservices.com
-ad.doubleclick.net
-pubads.g.doubleclick.net
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
 adclick.g.doubleclick.net
 
 # Moat (Hulu)
