@@ -1,0 +1,80 @@
+#Regex deny
+(^|\.)powerapp\.download$    # Migrated from /etc/pihole/regex.list
+(^|\.)audk\.xyz$             # Migrated from /etc/pihole/regex.list
+(^|\.)getvideoconverter\.com$ # Migrated from /etc/pihole/regex.list
+(\.|^)cluodlfare\.com$       # not cloudflare
+(\.|^)2cnjuh34jbhub\.com$
+(\.|^)mr2cnjuh34jb\.com$
+(\.|^)realsrv\.com$
+(\.|^)smart2cnjuh34jb\.com$
+(\.|^)trafficjunky\.net$
+(\.|^)adtng\.com$            # p ad
+(\.|^)f1272serve\.xyz$       # p ad
+(\.|^)vfthr\.com$            # p ad
+(\.|^)2020mustang\.com$      # p ad
+(\.|^)trunblock\.com$
+(\.|^)thebestgame2020\.com$  # ad
+(\.|^)sex-and-flirt\.com$    # ad
+(\.|^)hadsanz\.com$          # ad
+(\.|^)alskhan\.com$          # ad
+(\.|^)mytraffic\.pl$         # ads
+(\.|^)dateufriend\.com$      # ads
+(\.|^)jads\.co$              # ads
+(\.|^)statedweaveappeared\.com$ # malicious
+(\.|^)justicehelplesswarn\.com$ # malicious
+(\.|^)reinspersian\.com$        # malicious
+(\.|^)landlordmanoeuvre\.com$   # malicious
+(\.|^)judgementinvincible\.com$ # malicious
+(\.|^)d\.rejcinews\.pro$
+(\.|^)searchdating\.com$
+(\.|^)slatedata949\.cf$      # virus
+(\.|^)us\.privacylocked\.click$
+(\.|^)bestcontentfood\.top$
+(\.|^)g4mz\.com$
+(\.|^)trustedcpmrevenue\.com$ # bad ads
+(\.|^)moatads\.com$          # ADs
+(\.|^)adsafeprotected\.com$  # ADs
+(\.|^)adnxs\.com$            # ADs
+(\.|^)adsrvr\.org$           # ADs
+(\.|^)adgrx\.com$            # ADs
+(\.|^)smartadserver\.com$    # ADs
+(\.|^)adform\.net$           # ADs
+(\.|^)brainlyads\.com$       # ADs
+(\.|^)smaato\.net$           # ADs
+(\.|^)tapad\.com$            # Tracking/ADs
+(\.|^)amazon-adsystem\.com$  # Amazon ADs
+(\.|^)stackadapt\.com$       # ADs
+(\.|^)g\.doubleclick\.net$   # ADs
+(\.|^)safeframe\.googlesyndication\.com$ # ADs
+(\.|^)ads\.stickyadstv\.com\.akadns\.net$
+(\.|^)nitropay\.com$
+(\.|^)connatix\.com$         # wowhead dns spam from player
+(\.|^)carbonads\.net$
+(\.|^)adthrive\.com$
+(\.|^)ads\.yieldmo\.com$
+(\.|^)adkernel\.com$
+(\.|^)adcolony\.com$
+(\.|^)afkwa\.com$
+(\.|^)sexad\.net$
+(\.|^)rtbsuperhub\.com$
+(\.|^)btmnd\.com$
+(\.|^)mndx1\.com$
+(\.|^)turn\.com$             # TV ADs?
+(\.|^)ad\.gt$                # ADs
+(\.|^)ads\.linkedin\.com$
+(\.|^)id\.fortune\.com$      # fortune sub block
+(\.|^)noon\.founderyet\.com$ # yahoo email ads
+(\.|^)adzerk\.net$
+(\.|^)bounceexchange\.com$   # ADs Tracking?
+(\.|^)cpmstar\.com$          # ADs
+(\.|^)htlbid\.com$           # seen on wowhead but just tracker/ad?
+(\.|^)datadoghq-browser-agent\.com$ # tracker or bot/scraper detector
+(\.|^)zaf\.api\.fanbyte\.com$ # wowhead loads videos/ads that spam DNS
+(\.|^)analytics\.ahrefs\.com$ # tracker?
+(\.|^)cootlogix\.com$        # ?
+(\.|^)servedby-buysellads\.com$
+(\.|^)adtarget\.com\.tr$
+(\.|^)admatic\.com\.tr$
+(\.|^)pixad\.com\.tr$
+(\.|^)adtelligent\.com$
+(\.|^)admanmedia\.com$
