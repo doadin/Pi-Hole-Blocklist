@@ -1,55 +1,53 @@
-ABP-Syle Items
-
 (^|\.)powerapp\.download$
 (^|\.)audk\.xyz$
 (^|\.)getvideoconverter\.com$
-(\.|^)cluodlfare\.com$       # not cloudflare
+(\.|^)cluodlfare\.com$
 (\.|^)2cnjuh34jbhub\.com$
 (\.|^)mr2cnjuh34jb\.com$
 (\.|^)realsrv\.com$
 (\.|^)smart2cnjuh34jb\.com$
 (\.|^)trafficjunky\.net$
-(\.|^)adtng\.com$            # p ad
-(\.|^)f1272serve\.xyz$       # p ad
-(\.|^)vfthr\.com$            # p ad
-(\.|^)2020mustang\.com$      # p ad
+(\.|^)adtng\.com$
+(\.|^)f1272serve\.xyz$
+(\.|^)vfthr\.com$
+(\.|^)2020mustang\.com$
 (\.|^)trunblock\.com$
-(\.|^)thebestgame2020\.com$  # ad
-(\.|^)sex-and-flirt\.com$    # ad
-(\.|^)hadsanz\.com$          # ad
-(\.|^)alskhan\.com$          # ad
-(\.|^)mytraffic\.pl$         # ads
-(\.|^)dateufriend\.com$      # ads
-(\.|^)jads\.co$              # ads
-(\.|^)statedweaveappeared\.com$ # malicious
-(\.|^)justicehelplesswarn\.com$ # malicious
-(\.|^)reinspersian\.com$        # malicious
-(\.|^)landlordmanoeuvre\.com$   # malicious
-(\.|^)judgementinvincible\.com$ # malicious
+(\.|^)thebestgame2020\.com$
+(\.|^)sex-and-flirt\.com$
+(\.|^)hadsanz\.com$
+(\.|^)alskhan\.com$
+(\.|^)mytraffic\.pl$
+(\.|^)dateufriend\.com$
+(\.|^)jads\.co$
+(\.|^)statedweaveappeared\.com$
+(\.|^)justicehelplesswarn\.com$
+(\.|^)reinspersian\.com$
+(\.|^)landlordmanoeuvre\.com$
+(\.|^)judgementinvincible\.com$
 (\.|^)d\.rejcinews\.pro$
 (\.|^)searchdating\.com$
-(\.|^)slatedata949\.cf$      # virus
+(\.|^)slatedata949\.cf$
 (\.|^)us\.privacylocked\.click$
 (\.|^)bestcontentfood\.top$
 (\.|^)g4mz\.com$
-(\.|^)trustedcpmrevenue\.com$ # bad ads
-(\.|^)moatads\.com$          # ADs
-(\.|^)adsafeprotected\.com$  # ADs
-(\.|^)adnxs\.com$            # ADs
-(\.|^)adsrvr\.org$           # ADs
-(\.|^)adgrx\.com$            # ADs
-(\.|^)smartadserver\.com$    # ADs
-(\.|^)adform\.net$           # ADs
-(\.|^)brainlyads\.com$       # ADs
-(\.|^)smaato\.net$           # ADs
-(\.|^)tapad\.com$            # Tracking/ADs
-(\.|^)amazon-adsystem\.com$  # Amazon ADs
-(\.|^)stackadapt\.com$       # ADs
-(\.|^)g\.doubleclick\.net$   # ADs
-(\.|^)safeframe\.googlesyndication\.com$ # ADs
+(\.|^)trustedcpmrevenue\.com$
+(\.|^)moatads\.com$
+(\.|^)adsafeprotected\.com$
+(\.|^)adnxs\.com$
+(\.|^)adsrvr\.org$
+(\.|^)adgrx\.com$
+(\.|^)smartadserver\.com$
+(\.|^)adform\.net$
+(\.|^)brainlyads\.com$
+(\.|^)smaato\.net$
+(\.|^)tapad\.com$
+(\.|^)amazon-adsystem\.com$
+(\.|^)stackadapt\.com$
+(\.|^)g\.doubleclick\.net$
+(\.|^)safeframe\.googlesyndication\.com$
 (\.|^)ads\.stickyadstv\.com\.akadns\.net$
 (\.|^)nitropay\.com$
-(\.|^)connatix\.com$         # wowhead dns spam from player
+(\.|^)connatix\.com$
 (\.|^)carbonads\.net$
 (\.|^)adthrive\.com$
 (\.|^)ads\.yieldmo\.com$
@@ -60,19 +58,19 @@ ABP-Syle Items
 (\.|^)rtbsuperhub\.com$
 (\.|^)btmnd\.com$
 (\.|^)mndx1\.com$
-(\.|^)turn\.com$             # TV ADs?
-(\.|^)ad\.gt$                # ADs
+(\.|^)turn\.com$
+(\.|^)ad\.gt$
 (\.|^)ads\.linkedin\.com$
-(\.|^)id\.fortune\.com$      # fortune sub block
-(\.|^)noon\.founderyet\.com$ # yahoo email ads
+(\.|^)id\.fortune\.com$
+(\.|^)noon\.founderyet\.com$
 (\.|^)adzerk\.net$
-(\.|^)bounceexchange\.com$   # ADs Tracking?
-(\.|^)cpmstar\.com$          # ADs
-(\.|^)htlbid\.com$           # seen on wowhead but just tracker/ad?
-(\.|^)datadoghq-browser-agent\.com$ # tracker or bot/scraper detector
-(\.|^)zaf\.api\.fanbyte\.com$ # wowhead loads videos/ads that spam DNS
-(\.|^)analytics\.ahrefs\.com$ # tracker?
-(\.|^)cootlogix\.com$        # ?
+(\.|^)bounceexchange\.com$
+(\.|^)cpmstar\.com$
+(\.|^)htlbid\.com$
+(\.|^)datadoghq-browser-agent\.com$
+(\.|^)zaf\.api\.fanbyte\.com$
+(\.|^)analytics\.ahrefs\.com$
+(\.|^)cootlogix\.com$
 (\.|^)servedby-buysellads\.com$
 (\.|^)adtarget\.com\.tr$
 (\.|^)admatic\.com\.tr$
