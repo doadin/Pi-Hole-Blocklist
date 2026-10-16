@@ -78,3 +78,165 @@
 (\.|^)pixad\.com\.tr$
 (\.|^)adtelligent\.com$
 (\.|^)admanmedia\.com$
+
+#Regex Allow
+# Unknown
+(\.|^)phncdn\.com$
+
+# Omaze Prize Win
+(\.|^)omaze\.com$
+
+# Battle Net Mobile
+(\.|^)googletagmanager\.com$
+
+# Conference Call Service
+(\.|^)pardot\.com$
+
+# KEEP
+(\.|^)googleadservices\.com$
+
+# honey redirect
+(\.|^)ojrq\.net$
+
+# appsflyer.com t and events subdomain
+(\.|^)appsflyer\.com$
+
+# Lowes
+(\.|^)jdoqocy\.com$
+
+# Amazon
+(\.|^)amazon-adsystem\.com$
+
+# DefaultSafe
+(\.|^)onesignal\.com$
+
+# google update
+(\.|^)connectivitycheck\.gstatic\.com$
+(\.|^)beacons\.gcp\.gvt2\.com$
+
+# google/android
+(\.|^)googleapis\.com$
+
+# DefaultSafe
+(\.|^)t-mobile\.com$
+
+# twitter
+(\.|^)video\.twimg\.com$
+
+# CBS
+(\.|^)omtrdc\.net$
+(\.|^)conviva\.com$
+(\.|^)extremereach\.io$
+(\.|^)demdex\.net$
+(\.|^)imrworldwide\.com$
+(\.|^)doubleverify\.com$
+(\.|^)innovid\.com$
+(\.|^)cedexis\.com$
+(\.|^)kochava\.com$
+(\.|^)cbs\.com$
+(\.|^)fwmrm\.net$
+(\.|^)summerhamster\.com$
+(\.|^)tiqcdn\.com$
+(\.|^)2mdn\.net$
+(\.|^)ns1p\.net$
+(\.|^)rlcdn\.com$
+(\.|^)ml314\.com$
+(\.|^)eyeota\.net$
+(\.|^)crwdcntrl\.net$
+(\.|^)imtwjwoasak\.com$
+(\.|^)insightexpressai\.com$
+(\.|^)ispot\.tv$
+
+# DefaultSafe
+(\.|^)naiadsystems\.com$
+(\.|^)quantserve\.com$
+(\.|^)quantcount\.com$
+(\.|^)swagbucks\.com$
+(\.|^)intel\.com$
+(\.|^)everesttech\.net$
+(\.|^)onetrust\.com$
+(\.|^)clicktale\.net$
+
+# Intel Forums
+(\.|^)coveo\.com$
+(\.|^)moatads\.com$
+(\.|^)addthisedge\.com$
+
+# DefaultSafe
+(\.|^)addthis\.com$
+(\.|^)paramountplus\.com$
+(\.|^)cbsi\.com$
+(\.|^)doubleclick\.net$
+
+# Reddit media thumbnails (pattern)
+[a-z].thumbs.redditmedia.com
+
+# WhatsApp CDN (pattern)
+^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9].fbcdn.net$
+
+# Reddit
+(\.|^)redd\.it$
+(\.|^)reddit\.com$
+
+# WhatsApp CDN (escaped)
+^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9]\.fbcdn\.net$
+
+# WhatsApp full domain pattern
+^((www|(w[0-9]\.)?web|media((-[a-z]{3}|\.[a-z]{4})[0-9]{1,2}-[0-9](\.|-)(cdn|fna))?)\.)?whatsapp\.(com|net)$
+
+# Twitter
+(\.|^)twimg\.com$
+
+# EpicGames
+(\.|^)epicgames\.com$
+
+# WoW API Wiki
+(\.|^)wikia-services\.com$
+(\.|^)pubmatic\.com$
+(\.|^)casalemedia\.com$
+(\.|^)rubiconproject\.com$
+
+# DefaultSafe
+(\.|^)exelator\.com$
+(\.|^)optimizely\.com$
+(\.|^)adnxs\.com$
+(\.|^)ad\.gt$
+(\.|^)3lift\.com$
+(\.|^)fastly-insights\.com$
+(\.|^)media\.net$
+(\.|^)1rx\.io$
+(\.|^)thrtle\.com$
+(\.|^)lijit\.com$
+(\.|^)bidswitch\.net$
+(\.|^)liadm\.com$
+(\.|^)pippio\.com$
+(\.|^)durationmedia\.net$
+(\.|^)tremorhub\.com$
+(\.|^)crazyegg\.com$
+(\.|^)mathtag\.com$
+(\.|^)ntv\.io$
+(\.|^)id5-sync\.com$
+(\.|^)criteo\.com$
+(\.|^)stackadapt\.com$
+(\.|^)adsrvr\.org$
+(\.|^)adsafeprotected\.com$
+(\.|^)openx\.net$
+(\.|^)sitescout\.com$
+(\.|^)tapad\.com$
+
+# Google Update (wildcards)
+*.googleapis.com
+*.googleusercontent.com
+*.gstatic.com
+*.t-mobile.com
+*.apigee.net
+
+# WiFi-Calling
+(\.|^)3gppnetwork\.org$
+
+# DefaultSafe
+(\.|^)g2a\.com$
+
+# Admiral
+(\.|^)succeedscene\.com$
+
